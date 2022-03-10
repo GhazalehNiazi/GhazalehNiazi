@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghazale</h1>
 <h3 align="center">A passionate frontend developer who is interested in learning new technology and tools.</h3>
 
-- 🔭 I’m currently working on [interior design app](https://github.com/GhazalehNiazi/interior-design)
+- 🔭 I’m currently working on my [portfolio](https://github.com/GhazalehNiazi/portfolio)
 
 - 🌱 I’m currently learning **reacte.js , next.js , typeScript**
 
